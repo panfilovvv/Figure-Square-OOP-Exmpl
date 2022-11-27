@@ -1,0 +1,10 @@
+C:\Users\vovas\source\repos\MindBoxTest\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+C:\Users\vovas\source\repos\MindBoxTest\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\vovas\source\repos\MindBoxTest\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.AssemblyReference.cache
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfoInputs.cache
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.AssemblyInfo.cs
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.dll
+C:\Users\vovas\source\repos\MindBoxTest\Figures\obj\Debug\netcoreapp3.1\Figures.pdb

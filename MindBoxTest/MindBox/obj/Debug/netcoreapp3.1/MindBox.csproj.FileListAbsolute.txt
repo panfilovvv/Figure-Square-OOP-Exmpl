@@ -1,0 +1,16 @@
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.exe
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.deps.json
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.runtimeconfig.json
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.runtimeconfig.dev.json
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.dll
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\MindBox.pdb
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\Figures.dll
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\bin\Debug\netcoreapp3.1\Figures.pdb
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.csproj.AssemblyReference.cache
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.AssemblyInfoInputs.cache
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.AssemblyInfo.cs
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.csproj.CoreCompileInputs.cache
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.dll
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.pdb
+C:\Users\vovas\source\repos\MindBoxTest\MindBox\obj\Debug\netcoreapp3.1\MindBox.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsiJK/l1lDQdmicM5D5S+y+zF68fQycDPM6OYHKbq6ZBLw+F1/jpV4gZL48x5UDsn2G0EFJ3M9P3OMoyTpqh+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vovas\\source\\repos\\MindBoxTest\\MindBox\\MindBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vovas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
